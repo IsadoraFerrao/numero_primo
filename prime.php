@@ -9,6 +9,8 @@ Números Primos<br>
 Faça um algorítmo que dado um número digitado pelo usuário, <br>
 verifique se é primo ou não.<br><br>
 
+Desafio completado<br><br>
+
 <font size="-1">by Renan Pantoja Vilas.</font><br><br>
 
 <form action="" method="post">
